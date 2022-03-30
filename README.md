@@ -95,6 +95,9 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=plastic&logo=jupyter&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-FCC624.svg?style=plastic&logo=googlecolab&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-25A162.svg?style=plastic&logo=latex&logoColor=cadmiumgreen" /></a>
+	
 </p>
 
 
