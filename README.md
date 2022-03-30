@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## :sassy_man:  About me
+## :sassy_woman:  About me
 - :school: I completed my undergraduate education in the field of `Mathematics` at Mimar Sinan Fine Arts University. 
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Data Science`.
