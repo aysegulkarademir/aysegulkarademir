@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ## :sassy_woman:  About me
 - :school: I completed my undergraduate education in the field of `Mathematics` at Mimar Sinan Fine Arts University. 
 - :woman_technologist: I love using Software as a solution for every `Problem`
-- :woman_student: I’m currently learning: `Data Science`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WIDQORA_nJpDNKbxDfTySctdNfKYgchW/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
